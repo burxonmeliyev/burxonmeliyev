@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Burxon Meliyev</h1>
 <h3 align="center">Junior Frontend Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAM&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -13,7 +13,8 @@
 - 🎨 I enjoy creating clean and responsive UI designs
 - 📚 Currently improving **JavaScript & Responsive Design**
 - 🎯 My goal is to become a **Professional Frontend Developer**
-- 📫 Contact: **YOUR_EMAIL**
+- 📫 Contact: **meliyevburxon@gmail.com**
+- 📫 Phone number: **+998934243408**
 
 ---
 
@@ -56,10 +57,10 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/ilxomovich_7" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/burxonmeliyev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
