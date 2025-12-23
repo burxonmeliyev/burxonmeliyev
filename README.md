@@ -1,24 +1,35 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">Frontend / Backend Developer from Uzbekistan 🇺🇿</h3>
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h3 align="center">Junior Frontend Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Web Development**
-- 💻 I work with **JavaScript, HTML, CSS**
-- 🚀 My goal is to become a **Strong Full-Stack Developer**
-- 📫 Reach me: **your_email@gmail.com**
+- 🚀 I have **4 months of experience** in Frontend Development
+- 💻 I build user interfaces using **HTML, CSS, JavaScript**
+- 🎨 I enjoy creating clean and responsive UI designs
+- 📚 Currently improving **JavaScript & Responsive Design**
+- 🎯 My goal is to become a **Professional Frontend Developer**
+- 📫 Contact: **YOUR_EMAIL**
 
 ---
 
 ### 🛠 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
+
+---
+
+### 📚 Skills
+- ✅ HTML5 (Semantic layout)
+- ✅ CSS3 (Flexbox, Grid, Animations)
+- ✅ Responsive Web Design
+- ✅ JavaScript (DOM, Events, Basics)
+- ✅ Git & GitHub (basic workflow)
 
 ---
 
@@ -43,16 +54,16 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/burxonmeliyev)
+⭐️ Junior Frontend Developer | Always learning 🚀
