@@ -41,7 +41,7 @@ Zamonaviy veb-texnologiyalarga qiziquvchi va 4 oylik amaliy tajribaga ega bo'lga
   </tr>
 </table>
 
-> *Eslatma: Rasmlar GitHub omboringizga yuklangan bo'lishi kerak yoki yuqoridagi linklarni o'zingizning rasmlaringiz linkiga almashtiring.*
+
 
 ---
 
