@@ -44,8 +44,8 @@
 ## 🏆 Certificates
 <p align="center">
   <img src="/photo.jpg" width="220" />
-  <img src="/photo1.jpg" width="220" />
-  <img src="/photo2.jpg" width="220" />
+  <img src="" width="220" />
+  <img src="" width="220" />
 </p>
 
 > 📌 Sertifikat rasmlarini `certificates/` papkaga joylashtiring
@@ -75,3 +75,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0A66C2" />
 </p>
+
