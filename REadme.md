@@ -6,9 +6,13 @@
 - 🎓 Coursera — 2 ta sertifikat  
 - 🎓 **IT Park** — 1 ta sertifikat  
 
-[📎 Suniy intelekt -NLP (PDF)](https://xusanbek0039.github.io/Xusanbek0039/NLP.pdf)
+[📎 AI Lieader Sertifikati (PDF)](https://github.com/burxonmeliyev/burxonmeliyev/blob/main/BURXONJON%20MELIEV%20ILXOMJON%20O%E2%80%98G%E2%80%98LI_5MP_0369516.pdf)
 
-[📎 Full-Stack Python sertifikati (PDF)](https://xusanbek0039.github.io/Xusanbek0039/Full%20Stack%20Python.pdf)
+[📎 Coursera sertifikati (PDF)](https://github.com/burxonmeliyev/burxonmeliyev/blob/main/Coursera%20G0Y4HNJQ8R25.pdf)
+
+📎 Coursera sertifikati (PDF)](https://github.com/burxonmeliyev/burxonmeliyev/blob/main/Coursera%20TCC7D3RH06VA.pdf)
+
+
 
 ----------------------------------------------
 
@@ -21,9 +25,9 @@
 ----------------------------------------------
 
 ## 📫 Murojaat uchun:
-- GitHub: [Xusanbek0039](https://github.com/xusanbek0039)
-- Telegram: [@Husanbek_Coder](https://t.me/husanbek_coder)
-- Email: itpark0071@gmail.com
+- GitHub: [burxonmeliyev](https://github.com/burxonmeliyev)
+- Telegram: [@Husanbek_Coder](https://t.me/ilxomovich_7)
+- Email: meliyevburxon7@gmail.com
 
 
 ----------------------------------------------
