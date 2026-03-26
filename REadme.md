@@ -33,11 +33,6 @@
 
 
 ----------------------------------------------
-<p align="center">
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F74244&width=450&lines=Full-Stack+Web+Developer;NLP+Python+Developer;Backend+Python+Developer;Full-Stack+Web+Mentor;Frontend%3A+Html%2C+Css%2C+Sass%2FScss;Tailwand+Css%2C+JavaScript;TypeScript%2C+RceactJs" alt="Typing SVG" />
-</p>
-
 <div align="center">
 ✨ Men <strong>Burxon Meliyev</strong>, dasturlashga ishtiyoqli Full-Stack Developer. IT Park O'quvchisiman<br>
 Buyuk <strong>Jizzax, Zomin</strong> Tumanidanman.  
@@ -97,43 +92,43 @@ Buyuk <strong>Jizzax, Zomin</strong> Tumanidanman.
   <table>
     <tr>
       <td>
-        <a href="https://husanbek-coder.uz" target="_blank">
+        <a href="https://burxon-coder.uz" target="_blank">
           <img src="https://img.icons8.com/color/48/domain.png" 
                height="40" width="40" alt="Website" title="Website" />
         </a>
       </td>
       <td>
-        <a href="mailto:itpark0071@gmail.com" target="_blank">
+        <a href="mailto:meliyevburxon7@gmail.com" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
                height="40" width="40" alt="Email" title="Email" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/xusanbek0039" target="_blank">
+        <a href="https://github.com/burxonmeliyev" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
                height="40" width="40" alt="GitHub" title="GitHub" />
         </a>
       </td>
       <td>
-        <a href="https://t.me/husanbek_coder" target="_blank">
+        <a href="https://t.me/ilxomovich_7" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
                height="40" width="40" alt="Telegram" title="Telegram" />
         </a>
       </td>
       <td>
-        <a href="https://wa.me/998975216686" target="_blank">
+        <a href="https://wa.me/998934243408" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg"
                height="40" width="40" alt="WhatsApp" title="WhatsApp" />
         </a>
       </td>
       <td>
-        <a href="https://instagram.com/husanbek_coder" target="_blank">
+        <a href="https://instagram.com/_1lxomovic_7" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                height="40" width="40" alt="Instagram" title="Instagram" />
         </a>
       </td>
       <td>
-        <a href="https://x.com/xusanbek0039" target="_blank">
+        <a href="https://x.com/burxonmeliyev" target="_blank">
           <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
                height="40" width="40" alt="X" title="X (Twitter)" />
         </a>
