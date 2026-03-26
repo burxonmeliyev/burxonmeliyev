@@ -42,7 +42,7 @@ Buyuk <strong>Jizzax, Zomin</strong> Tumanidanman.
 
 <p align="center">
   <img src="/Coursera G0Y4HNJQ8R25" alt="Husanbek photo 1" width="30%"/>
-  <img src="/Coursera TCC7D3RH06VA" alt="Husanbek photo 1" width="30%"/>
+  <img src="/https://github.com/burxonmeliyev/burxonmeliyev/blob/main/BURXONJON%20MELIEV%20ILXOMJON%20O%E2%80%98G%E2%80%98LI_5MP_0369516.jpg" alt="Husanbek photo 1" width="30%"/>
   <img src="/Burxon Meliyev.jpg" alt="Husanbek photo 2" width="30%"/>
   <img src="https://github.com/burxonmeliyev/burxonmeliyev/blob/main/ser_4_QNIuIGm.jpg" alt="Husanbek photo 3" width="30%"/>
   <img src="/photo.jpg" alt="Husanbek photo 3" width="30%"/>
