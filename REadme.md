@@ -1,6 +1,6 @@
 ![Snake animation](https://github.com/Xusanbek0039/Xusanbek0039/blob/main/snake.svg)
 
-# 👋 Assalomu alaykum, men Burxon Meliyev Full-Stack Python Dasturchi!
+# 👋 Assalomu alaykum, men Burxon Meliyev Full-Stack Web Dasturchi!
 
 ## 🏆 Sertifikatlar
 - 🎓 Coursera — 2 ta sertifikat  
@@ -12,7 +12,7 @@
 
 [📎 Coursera sertifikati (PDF)](https://github.com/burxonmeliyev/burxonmeliyev/blob/main/Coursera%20G0Y4HNJQ8R25.pdf)
 
-📎 Coursera sertifikati (PDF)](https://github.com/burxonmeliyev/burxonmeliyev/blob/main/Coursera%20TCC7D3RH06VA.pdf)
+[📎 Coursera sertifikati (PDF)](https://github.com/burxonmeliyev/burxonmeliyev/blob/main/Coursera%20TCC7D3RH06VA.pdf)
 
 
 
@@ -28,7 +28,7 @@
 
 ## 📫 Murojaat uchun:
 - GitHub: [burxonmeliyev](https://github.com/burxonmeliyev)
-- Telegram: [@Husanbek_Coder](https://t.me/ilxomovich_7)
+- Telegram: [@ilxomovich_7](https://t.me/ilxomovich_7)
 - Email: meliyevburxon7@gmail.com
 
 
@@ -40,8 +40,8 @@
 </p>
 
 <div align="center">
-✨ Men <strong>Husan Suyunov</strong>, dasturlashga ishtiyoqli Full-Stack Developer va Kimyo International University In Tashkent Biznes Managment Networks yo'nalishi bo'yicha 4-kurs talabaman. <br>
-Buyuk <strong>Jizzax, O‘zbekiston</strong> shahridanman.  
+✨ Men <strong>Burxon Meliyev</strong>, dasturlashga ishtiyoqli Full-Stack Developer. IT Park O'quvchisiman<br>
+Buyuk <strong>Jizzax, Zomin</strong> Tumanidanman.  
 4 yildan ortiq tajribam bilan foydalanuvchi uchun qulay va zamonaviy raqamli echimlar yaratishga ixtisoslashganman — ijodkorlik va toza kod yozishni uyg'unlashtiraman. 🚀
 </div>
 
