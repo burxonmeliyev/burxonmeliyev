@@ -47,7 +47,7 @@ Buyuk <strong>Jizzax, Zomin</strong> Tumanidanman.
    
    <br>
     <img src="https://github.com/burxonmeliyev/burxonmeliyev/blob/main/ser_4_QNIuIGm.jpg" alt="Husanbek photo 3" width="30%"/>
-    <img src="https://github.com/burxonmeliyev/burxonmeliyev/blob/main/Coursera%20TCC7D3RH06VA.jpg" alt="Husanbek photo 3" width="30%"/>
+    <img src="https://github.com/burxonmeliyev/burxonmeliyev/blob/main/Coursera%20G0Y4HNJQ8R25.jpg" alt="Husanbek photo 3" width="30%"/>
   
 </p>
 
