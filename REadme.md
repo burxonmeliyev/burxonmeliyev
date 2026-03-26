@@ -34,7 +34,6 @@
 
 ----------------------------------------------
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=09BAF7&width=435&lines=Husanbek+Suyunov+Full+Stack+Web+Developer" alt="Typing SVG" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F74244&width=450&lines=Full-Stack+Web+Developer;NLP+Python+Developer;Backend+Python+Developer;Full-Stack+Web+Mentor;Frontend%3A+Html%2C+Css%2C+Sass%2FScss;Tailwand+Css%2C+JavaScript;TypeScript%2C+RceactJs" alt="Typing SVG" />
 </p>
@@ -48,7 +47,7 @@ Buyuk <strong>Jizzax, Zomin</strong> Tumanidanman.
 
 <p align="center">
   <img src="/Python Husanbek Suyunov.png" alt="Husanbek photo 1" width="30%"/>
-  <img src="/Husanbek Suyunov.png" alt="Husanbek photo 2" width="30%"/>
+  <img src="/Burxon Meliyev.jpg" alt="Husanbek photo 2" width="30%"/>
   <img src="/NLP Husanbek Suyunov.png" alt="Husanbek photo 3" width="30%"/>
 </p>
 
@@ -60,9 +59,6 @@ Buyuk <strong>Jizzax, Zomin</strong> Tumanidanman.
       Djizzax, Uzbekistan
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
-      <strong>Education</strong><br/>
-      4th-Year Student Direction: Business Management in Networks<br/> Kimyo International University In Tashkent
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
