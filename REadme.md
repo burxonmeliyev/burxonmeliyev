@@ -4,7 +4,9 @@
 
 ## 🏆 Sertifikatlar
 - 🎓 Coursera — 2 ta sertifikat  
-- 🎓 **IT Park** — 1 ta sertifikat  
+- 🎓 **IT Park** — 1 ta sertifikat
+- 🎓 AI Liaders - 1 ta sertifikat
+
 
 [📎 AI Lieader Sertifikati (PDF)](https://github.com/burxonmeliyev/burxonmeliyev/blob/main/BURXONJON%20MELIEV%20ILXOMJON%20O%E2%80%98G%E2%80%98LI_5MP_0369516.pdf)
 
