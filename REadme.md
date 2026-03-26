@@ -3,7 +3,7 @@
 # 👋 Assalomu alaykum, men Burxon Meliyev Full-Stack Python Dasturchi!
 
 ## 🏆 Sertifikatlar
-- 🎓 **M**ohirdev — 2 ta sertifikat  
+- 🎓 Coursera — 2 ta sertifikat  
 - 🎓 **IT Park** — 1 ta sertifikat  
 
 [📎 Suniy intelekt -NLP (PDF)](https://xusanbek0039.github.io/Xusanbek0039/NLP.pdf)
