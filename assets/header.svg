@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="shade" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#050a07" stop-opacity="0.92"/>
+      <stop offset="70%" stop-color="#050a07" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#050a07" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050a07" stop-opacity="0.9"/>
+      <stop offset="25%" stop-color="#050a07" stop-opacity="0"/>
+      <stop offset="75%" stop-color="#050a07" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050a07" stop-opacity="0.9"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="2" y="2" width="996" height="296" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .rain { font-family: 'Courier New', monospace; font-size: 15px; fill: #00ff41; opacity: .55;
+            writing-mode: vertical-rl; text-orientation: upright; letter-spacing: 2px;
+            animation-name: fall; animation-timing-function: linear; animation-iteration-count: infinite; }
+    @keyframes fall { from { transform: translateY(-330px); } to { transform: translateY(330px); } }
+    .title { font-family: 'Courier New', monospace; font-weight: 900; font-style: italic; font-size: 92px;
+             fill: #00ff41; letter-spacing: 4px; animation: glitch 5s infinite; }
+    @keyframes glitch {
+      0%, 90%, 100% { transform: translate(0,0); }
+      92% { transform: translate(-4px, 1px); }
+      94% { transform: translate(5px, -1px); }
+      96% { transform: translate(-2px, 0); }
+    }
+    .sub  { font-family: 'Courier New', monospace; font-size: 26px; fill: #d6ffe0; letter-spacing: 6px; }
+    .tag  { font-family: 'Courier New', monospace; font-size: 16px; fill: #00ff41; }
+    .acc  { font-family: 'Courier New', monospace; font-size: 14px; fill: #00ff41; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    .blink { animation: blink 1s steps(2) infinite; }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 1; } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="300" fill="#050a07"/>
+
+    <!-- Matrix rain -->
+    <g>
+      <text class="rain" x="14"  y="0" style="animation-duration:7s;animation-delay:-2s">0 1 0 1 1 0 1 0 0 1 1 0 1 0 1</text>
+      <text class="rain" x="56"  y="0" style="animation-duration:9s;animation-delay:-6s">1 1 0 0 1 0 1 1 0 1 0 0 1 1 0</text>
+      <text class="rain" x="98"  y="0" style="animation-duration:6s;animation-delay:-1s">0 1 1 0 1 0 0 1 0 1 1 0 0 1 0</text>
+      <text class="rain" x="140" y="0" style="animation-duration:8s;animation-delay:-5s">1 0 1 0 0 1 1 0 1 0 1 1 0 0 1</text>
+      <text class="rain" x="182" y="0" style="animation-duration:10s;animation-delay:-3s">0 0 1 1 0 1 0 1 0 0 1 0 1 1 0</text>
+      <text class="rain" x="224" y="0" style="animation-duration:7.5s;animation-delay:-7s">1 0 0 1 1 0 1 0 1 1 0 0 1 0 1</text>
+      <text class="rain" x="266" y="0" style="animation-duration:9.5s;animation-delay:-4s">0 1 0 0 1 1 0 1 0 0 1 1 0 1 0</text>
+      <text class="rain" x="308" y="0" style="animation-duration:6.5s;animation-delay:-2.5s">1 1 0 1 0 0 1 0 1 1 0 1 0 0 1</text>
+      <text class="rain" x="350" y="0" style="animation-duration:8.5s;animation-delay:-8s">0 1 1 0 0 1 0 1 1 0 0 1 1 0 1</text>
+      <text class="rain" x="392" y="0" style="animation-duration:7s;animation-delay:-1.5s">1 0 1 1 0 1 0 0 1 0 1 0 1 1 0</text>
+      <text class="rain" x="434" y="0" style="animation-duration:10s;animation-delay:-6.5s">0 0 1 0 1 1 0 1 0 1 0 0 1 0 1</text>
+      <text class="rain" x="476" y="0" style="animation-duration:6s;animation-delay:-3.5s">1 0 0 1 0 1 1 0 0 1 1 0 1 0 0</text>
+      <text class="rain" x="518" y="0" style="animation-duration:9s;animation-delay:-5.5s">0 1 1 0 1 0 1 1 0 0 1 0 0 1 1</text>
+      <text class="rain" x="560" y="0" style="animation-duration:7.5s;animation-delay:-0.5s">1 0 1 0 0 1 0 1 1 0 1 1 0 0 1</text>
+      <text class="rain" x="602" y="0" style="animation-duration:8s;animation-delay:-4.5s">0 1 0 1 1 0 0 1 0 1 0 1 1 0 0</text>
+      <text class="rain" x="644" y="0" style="animation-duration:6.5s;animation-delay:-7.5s">1 1 0 0 1 0 1 0 1 0 1 0 0 1 1</text>
+      <text class="rain" x="686" y="0" style="animation-duration:9.5s;animation-delay:-2s">0 1 0 1 0 1 1 0 0 1 0 1 1 0 1</text>
+      <text class="rain" x="728" y="0" style="animation-duration:7s;animation-delay:-6s">1 0 0 1 1 0 1 1 0 0 1 0 1 0 0</text>
+      <text class="rain" x="770" y="0" style="animation-duration:10s;animation-delay:-9s">0 1 1 0 0 1 0 1 0 1 1 0 0 1 0</text>
+      <text class="rain" x="812" y="0" style="animation-duration:8s;animation-delay:-3s">1 0 1 1 0 0 1 0 1 0 0 1 1 0 1</text>
+      <text class="rain" x="854" y="0" style="animation-duration:6s;animation-delay:-5s">0 1 0 0 1 1 0 1 0 1 0 1 0 0 1</text>
+      <text class="rain" x="896" y="0" style="animation-duration:9s;animation-delay:-1s">1 1 0 1 0 0 1 0 1 1 0 0 1 0 1</text>
+      <text class="rain" x="938" y="0" style="animation-duration:7.5s;animation-delay:-8s">0 0 1 0 1 1 0 1 0 0 1 1 0 1 0</text>
+      <text class="rain" x="976" y="0" style="animation-duration:8.5s;animation-delay:-4s">1 0 1 1 0 0 1 0 1 0 1 0 1 0 0</text>
+    </g>
+
+    <rect width="1000" height="300" fill="url(#fade)"/>
+    <rect width="1000" height="300" fill="url(#shade)"/>
+
+    <!-- Shield with lock (left) -->
+    <g class="pulse" filter="url(#glow)">
+      <path d="M130 62 L192 84 V148 C192 190 162 216 130 230 C98 216 68 190 68 148 V84 Z"
+            fill="#06200f" stroke="#00ff41" stroke-width="3"/>
+      <rect x="108" y="134" width="44" height="36" rx="5" fill="none" stroke="#00ff41" stroke-width="3.5"/>
+      <path d="M115 134 V122 C115 108 145 108 145 122 V134" fill="none" stroke="#00ff41" stroke-width="3.5"/>
+      <circle cx="130" cy="150" r="4" fill="#00ff41"/>
+    </g>
+
+    <!-- Globe (right) -->
+    <g filter="url(#glow)" fill="none" stroke="#00ff41" stroke-width="1.6" opacity="0.9">
+      <circle cx="870" cy="125" r="75" stroke-width="2.4"/>
+      <ellipse cx="870" cy="125" rx="75" ry="20"/>
+      <ellipse cx="870" cy="95"  rx="65" ry="14"/>
+      <ellipse cx="870" cy="155" rx="65" ry="14"/>
+      <ellipse cx="870" cy="125" rx="75" ry="75">
+        <animate attributeName="rx" values="75;40;4;40;75" dur="6s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="870" cy="125" rx="4" ry="75">
+        <animate attributeName="rx" values="4;40;75;40;4" dur="6s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <!-- Title -->
+    <g filter="url(#glow)">
+      <text class="title" x="500" y="125" text-anchor="middle">BURXON</text>
+    </g>
+    <text class="sub" x="500" y="168" text-anchor="middle">FULL-STACK WEB DEVELOPER</text>
+
+    <!-- Access granted -->
+    <g transform="translate(742,238)">
+      <rect width="216" height="42" rx="6" fill="#050a07" stroke="#0f5a26" stroke-width="2"/>
+      <text class="acc" x="12" y="18">&gt; ACCESS GRANTED<tspan class="blink">_</tspan></text>
+      <rect x="12" y="25" width="192" height="8" rx="2" fill="#0a2a14"/>
+      <rect x="12" y="25" width="0" height="8" rx="2" fill="#00ff41">
+        <animate attributeName="width" values="0;192;192" keyTimes="0;0.6;1" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <rect x="2" y="2" width="996" height="296" rx="14" fill="none" stroke="#0f5a26" stroke-width="2"/>
+  </g>
+</svg>

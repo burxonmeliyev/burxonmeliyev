@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 260" width="560" height="260">
+  <defs>
+    <filter id="g" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="1.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="c1"><rect x="24" y="54" height="22" width="0">
+      <animate attributeName="width" keyTimes="0;0.02;0.09;1" values="0;0;174;174" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="24" y="76" height="22" width="0">
+      <animate attributeName="width" keyTimes="0;0.10;0.14;1" values="0;0;174;174" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect x="24" y="106" height="22" width="0">
+      <animate attributeName="width" keyTimes="0;0.18;0.30;1" values="0;0;251;251" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c4"><rect x="24" y="128" height="22" width="0">
+      <animate attributeName="width" keyTimes="0;0.32;0.37;1" values="0;0;310;310" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c5"><rect x="24" y="158" height="22" width="0">
+      <animate attributeName="width" keyTimes="0;0.42;0.60;1" values="0;0;404;404" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c6"><rect x="24" y="180" height="22" width="0">
+      <animate attributeName="width" keyTimes="0;0.62;0.68;1" values="0;0;225;225" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c7"><rect x="24" y="210" height="22" width="0">
+      <animate attributeName="width" keyTimes="0;0.72;0.74;1" values="0;0;130;130" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <style>
+    .t  { font-family: 'Courier New', monospace; font-size: 14px; }
+    .p  { fill: #00ff41; }
+    .cm { fill: #e6fff0; }
+    .o  { fill: #8dffae; }
+    .cur { animation: blink 1s steps(2) infinite; }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 1; } }
+  </style>
+
+  <rect x="2" y="2" width="556" height="256" rx="12" fill="#050a07" stroke="#0f5a26" stroke-width="2"/>
+  <path d="M2 14 a12 12 0 0 1 12 -12 H546 a12 12 0 0 1 12 12 V34 H2 Z" fill="#08150c"/>
+  <circle cx="24" cy="18" r="5.5" fill="#ff5f56"/>
+  <circle cx="44" cy="18" r="5.5" fill="#ffbd2e"/>
+  <circle cx="64" cy="18" r="5.5" fill="#27c93f"/>
+  <text class="t o" x="90" y="23" font-size="13">burxon@dev:~</text>
+
+  <g filter="url(#g)">
+    <g clip-path="url(#c1)"><text class="t" x="24" y="70"><tspan class="p">burxon@dev:~$ </tspan><tspan class="cm">whoami</tspan></text></g>
+    <g clip-path="url(#c2)"><text class="t o" x="24" y="92">Full_Stack_Developer</text></g>
+
+    <g clip-path="url(#c3)"><text class="t" x="24" y="122"><tspan class="p">burxon@dev:~$ </tspan><tspan class="cm">cat mission.txt</tspan></text></g>
+    <g clip-path="url(#c4)"><text class="t o" x="24" y="144">&gt; Learn  &gt; Build  &gt; Deploy  &gt; Repeat</text></g>
+
+    <g clip-path="url(#c5)"><text class="t" x="24" y="174"><tspan class="p">burxon@dev:~$ </tspan><tspan class="cm">echo "Kod yozaman, ijod qilaman."</tspan></text></g>
+    <g clip-path="url(#c6)"><text class="t o" x="24" y="196">Kod yozaman, ijod qilaman.</text></g>
+
+    <g clip-path="url(#c7)"><text class="t" x="24" y="226"><tspan class="p">burxon@dev:~$ </tspan><tspan class="p cur">█</tspan></text></g>
+  </g>
+</svg>
